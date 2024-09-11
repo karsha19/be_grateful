@@ -6,11 +6,11 @@
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
 <!-- BE_GRATEFUL:END -->
 
-Fork repo to give credit to your repo fans in your readme file automagically.<br/>
+Fork repo to give credit to your repo fans in your readme file automagically.<br>
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"The time you think you're missing, misses you too."</h3>
+<h3><strong>"The time you think you're missing, misses you too."</strong></h3>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Ymber Delecto</i></small>
 <!-- BE_GRATEFUL:END -->
 
@@ -32,4 +32,4 @@ Just edit the readme.md file as you wish but keep the special comments.
 </ol>
 
 <!-- BE_GRATEFUL:END -->
-<br/>
+<br>
